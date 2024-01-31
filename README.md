@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @fraxnet
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+?,- 👋 Hi, I’m @fraxnet founder 
+- 👀 I’m interested in technology and software 
+- 🌱 I’m currently learning MLL
+- 💞️ I’m looking to collaborate on ERP technologies 
+- 📫 How to reach me on my website
 
 <!---
 fraxnet/fraxnet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
