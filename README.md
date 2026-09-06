@@ -1,19 +1,41 @@
-👋 Hi, I’m @fraxnet — Founder & Senior Business Analyst
+- 👋 **Hi, I’m @fraxnet** - Senior Business Analyst
 
-🏢 8+ years as an Odoo Functional Consultant & Official Odoo Partner
+<br/>
 
-⚙️ I specialize in ERP implementation, business analysis & process optimization
+- 🏢 **About Me:**
+  - 8+ years as an **Odoo Functional Consultant** & **Official Odoo Partner**
+  - Founder at **Pinnacle Innovation**
 
-💡 I help businesses turn their requirements into practical technology solutions
+<br/>
 
-🚀 Focused on Odoo, ERP, business systems & digital transformation
+- ⚙️ **Core Specializations:**
+  - Enterprise ERP Implementation & Functional Architecture
+  - Business Process Re-Engineering & Systems Integration
+  - Strategic Digital Transformation & Requirement Analysis
 
-💻 Passionate about web technologies, software & system integration
+<br/>
 
-🤝 Open to business partnerships, consulting & Senior Business Analyst opportunities
+- 💡 **Value Proposition:**
+  - Translating complex business requirements into scalable, high-performance technology solutions
 
-🌱 Exploring AI, ML & the future of intelligent business systems
+<br/>
 
-📫 www.fraxnet.com
+- 🚀 **Focus Areas:**
+  - Odoo Enterprise & Odoo.sh Ecosystems
+  - Supply Chain, Financial Workflows & Operations Optimization
+  - Applied AI & ML for Intelligent Business Systems
 
-<!--- fraxnet/fraxnet is a ✨ special ✨ repository because this repository's README.md appears on my GitHub profile. --->
+<br/>
+
+- 🤝 **Collaboration & Opportunities:**
+  - Strategic Business Partnerships & Enterprise ERP Consulting
+  - Senior Business Analyst & Functional Lead Roles
+
+<br/>
+
+- 📫 **Connect With Me:**
+  - Website: [www.fraxnet.com](https://www.fraxnet.com)
+
+<!---
+fraxnet/fraxnet is a ✨ special ✨ repository because this repository's README.md appears on my GitHub profile.
+--->
