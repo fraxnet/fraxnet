@@ -1,11 +1,19 @@
-👋 Hi, I’m @fraxnet - Senior Business Analyst & Odoo Functional Consultant
-💼 I specialize in ERP implementation, business process analysis, and digital transformation
-🏢 Odoo Functional Consultant & Official Odoo Partner with 8+ years of experience
-🚀 I help businesses translate their requirements into practical, scalable ERP solutions
-💻 I’m also passionate about web technologies, software solutions, and system integration
-🤝 I’m open to collaborating with businesses, ERP teams, and technology professionals
-👀 I’m interested in Enterprise ERP Architecture, Business Process Re-Engineering, and Local AI/LLM Integration
-🌱 I’m currently advancing workflows with Odoo (Enterprise & Odoo.sh), Docker, and MCP/AI development tools
-🌱 Exploring AI, ML, and the future of intelligent ERP
-📫 How to reach me: https://www.fraxnet.com
+👋 Hi, I’m @fraxnet — Founder & Senior Business Analyst
+
+🏢 8+ years as an Odoo Functional Consultant & Official Odoo Partner
+
+⚙️ I specialize in ERP implementation, business analysis & process optimization
+
+💡 I help businesses turn their requirements into practical technology solutions
+
+🚀 Focused on Odoo, ERP, business systems & digital transformation
+
+💻 Passionate about web technologies, software & system integration
+
+🤝 Open to business partnerships, consulting & Senior Business Analyst opportunities
+
+🌱 Exploring AI, ML & the future of intelligent business systems
+
+📫 www.fraxnet.com
+
 <!--- fraxnet/fraxnet is a ✨ special ✨ repository because this repository's README.md appears on my GitHub profile. --->
